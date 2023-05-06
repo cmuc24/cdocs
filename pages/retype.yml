@@ -1,0 +1,28 @@
+input: .
+output: .retype
+url: example.com # Add your website address here
+branding:
+  title: clab docs
+  label: Docs
+poweredByRetype: true # Set to false to remove the Powered by Retype branding.
+                      # A Retype Pro license is required.
+                      # See: https://retype.com/pro
+links:
+  - text: Getting Started
+    link: https://retype.com/guides/getting-started/
+footer:
+  copyright: "&copy; Copyright . All rights reserved."
+
+# -----------------------------------------------------------------------------
+
+search:          # Custom configuration of the website search component.
+  hotkeys:
+    - "/"        # Keyboard key to set the cursor focus into the search field.
+  maxResults: 20 # Max number of search results to render.
+  minChars: 2    # Min number of characters required to trigger a sear.ch
+  mode: full     # The search index creation mode.
+                 # Options include: full | partial | basic
+  noResultsFoundMsg: "Vertippt?" # Message when no results are found.
+  placeholder: `Suche # Placeholder text used in the search input field.
+
+# -----------------------------------------------------------------------------
