@@ -1,9 +1,20 @@
 input: .
 output: .retype
-url: # Add your website address here
+url: https://cmuc24.github.io/cdocs
 branding:
-  title: Project Name
+  title: clabdocs
   label: Docs
+# -----------------------------------------------------------------------------
+edit:
+  repo: "https://github.com/cmuc24/cdocs"   # The URL where the source files for this project are located.
+  base: ""   # Optional base path to a directory within the above repo.
+  branch: "" # Point to a custom branch within the repo.
+  label: "Edit this page" # A custom label for the generated link.
+# -----------------------------------------------------------------------------
+editor:         # Configure the page live editor functionality that is only
+                # available when `retype watch` is running.
+  enabled: true # Set to false to disable and hide the live editor.
+# -----------------------------------------------------------------------------
 links:
 - text: Getting Started
   link: https://retype.com/guides/getting-started/
