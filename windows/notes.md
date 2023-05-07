@@ -1,5 +1,9 @@
 # Windows
 
+Wie in Windows fast immer, schneller gehts mit fetzigen GUIs
+https://www.heise.de/download/product/link-shell-extension-39057
+
+
 ```shell script copy
 Symlinks in Windows 
 # target is a directory, create junction
