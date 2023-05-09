@@ -23,6 +23,6 @@ search:          # Custom configuration of the website search component.
   mode: full     # The search index creation mode.
                  # Options include: full | partial | basic
   noResultsFoundMsg: "Vertippt?" # Message when no results are found.
-  placeholder: `Suche # Placeholder text used in the search input field.
+  placeholder: Suche # Placeholder text used in the search input field.
 
 # -----------------------------------------------------------------------------
