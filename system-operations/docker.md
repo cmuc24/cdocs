@@ -14,7 +14,7 @@ templating: true
 # Titel der Seite 
 title: docker
 # Custom Titel für die Navigation
-label: Setup
+label: docker-setup
 icon: terminal
 tags:
   - guide
