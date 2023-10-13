@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugins>
+    <cachechk>201607221201</cachechk>
+    <item>
+        <name>Tautulli</name>
+        <internalName>Tautulli</internalName>
+        <changeLog>https://qnapclub.eu/de/qpkg/releasenotes/557</changeLog>
+        <category>QnapClub</category>
+
+        <type>Unterhaltung</type>
+                        <icon80>https://www.qnapclub.eu/storage/qpkg_artifacts/Tautulli_2.5.2_x86_64/qpkg_icon_80.gif</icon80>
+                    <description><![CDATA[Monitoring and tracking tool for Plex Media Serverweb application for monitoring, analytics and notifications for Plex Media Server.FeaturesResponsive web design viewable on desktop, tablet and mobile web browsers.Themed to complement Plex/Web.Easy configuration setup (no separate web server required).Monitor current Plex Media Server activity.Fully customizable notifications for stream activity and recently added media.Top statistics on home page with configurable duration and measurement metric.Global watching history with search/filtering &amp;amp; dynamic column sorting.Full user list with general information and comparison stats.Individual user information including devices IP addresses.Complete library statistics and media file information.Rich analytics presented using Highcharts graphing.Beautiful content information pages.Full sync list data on all users syncing items from your library.And many more!!TIP ME !!Your gratitude and finance will help me to continue integration of this QPKG and maintain up to date versions.        ]]></description>
+        <fwVersion>4.3.3</fwVersion>
+        <version>2.10.1.0</version>
+        <platform>
+            <platformID>TS-NASARM_64</platformID>
+            <location>https://qnapclub.eu/de/qpkg/model/download/481613/Tautulli_2.10.1.0_arm_64.qpkg</location>
+        </platform>
+        <platform>
+            <platformID>TS-X28A</platformID>
+            <location>https://qnapclub.eu/de/qpkg/model/download/481614/Tautulli_2.10.1.0_arm_64.qpkg</location>
+        </platform>
+        <platform>
+            <platformID>TS-X30</platformID>
+            <location>https://qnapclub.eu/de/qpkg/model/download/481615/Tautulli_2.10.1.0_arm_64.qpkg</location>
+        </platform>
+        <platform>
+            <platformID>TS-X32</platformID>
+            <location>https://qnapclub.eu/de/qpkg/model/download/481616/Tautulli_2.10.1.0_arm_64.qpkg</location>
+        </platform>
+        <platform>
+            <platformID>TS-X32U</platformID>
+            <location>https://qnapclub.eu/de/qpkg/model/download/481617/Tautulli_2.10.1.0_arm_64.qpkg</location>
+        </platform>
+        <platform>
+            <platformID>TS-XA28A</platformID>
+            <location>https://qnapclub.eu/de/qpkg/model/download/481618/Tautulli_2.10.1.0_arm_64.qpkg</location>
+        </platform>
+        <platform>
+            <platformID>TS-X41</platformID>
+            <location>https://qnapclub.eu/de/qpkg/model/download/481619/Tautulli_2.10.1.0_arm-x41.qpkg</location>
+        </platform>
+        <publishedDate>2022/06/05</publishedDate>
+        <maintainer><![CDATA[QoolBox]]></maintainer>
+        <developer><![CDATA[QoolBox]]></developer>
+        <forumLink><![CDATA[http://forum.qnapclub.fr/topic/9908-tautulli/]]></forumLink>
+        <icon100></icon100>
+        <language><![CDATA[English]]></language>
+        <snapshot></snapshot>
+        <bannerImg></bannerImg>
+        <changeLog></changeLog>
+        <tutorialLink><![CDATA[http://tautulli.com]]></tutorialLink>
+    </item>
+</plugins>
